@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+dist/
+artifacts/
+.vs/
+*.user
+*.suo
+.env
+.env.*
+*.log
+ClickerSettingsV2.json

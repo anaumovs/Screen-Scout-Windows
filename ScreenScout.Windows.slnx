@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/ScoutCore/ScoutCore.csproj" />
+  <Project Path="src/ScreenScout/ScreenScout.csproj" />
+  <Project Path="src/ClickTestPad/ClickTestPad.csproj" />
+  <Project Path="tests/ScoutChecks/ScoutChecks.csproj" />
+</Solution>
